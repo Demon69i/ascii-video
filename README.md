@@ -2,6 +2,8 @@
 
 ASCII VIDEO is a Python application that converts videos into animated ASCII art directly in your terminal. It supports real-time playback, colored ASCII rendering, multi-language menus, and exporting ASCII animations as MP4 videos.
 
+
+![ASCII VIDEO Demo](demo.gif)
 ---
 
 ## Features
